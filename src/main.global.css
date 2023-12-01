@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  color: #FFFFFF;
+  background-color: #FFFFFF;
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+button {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+}
+
+input {
+  border: none;
+  background-color: transparent;
+  outline: none;
+}
